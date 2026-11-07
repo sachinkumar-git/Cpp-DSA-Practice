@@ -1,0 +1,30 @@
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+a.out
+
+# Debug files
+*.pdb
+*.ilk
+*.dSYM/
+
+# Local configuration
+.env
+.env.*
+
+# IDE files
+.idea/
+.vscode/*
+!.vscode/settings.json
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
